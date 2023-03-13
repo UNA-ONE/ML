@@ -2,11 +2,11 @@
 
 # Proposed Approach 
 
->> Model Building   Keras  tf  CNN
+>> **Model Building**---------------Keras  tf  CNN  
 
->> Backend Server  FastApi tf serving
+>> **Backend Server**----------FastApi tf serving  
 
->> Frontend & Deployment  React 
+>> **Frontend & Deployment**---------------React 
 
 # Architecture 
 
